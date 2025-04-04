@@ -8,12 +8,12 @@ Soy desarrollador de software Junior con conocimientos Empiricos y Teóricos en 
 - Descripción: Sistema en desarrollo para ser imnplementado en una caja de ahorros para llevar un control y visualizacion del saldo de los socios, ultimos movimientos, solicitud de prestamos. Menejo de roles de socios y administrador, en el cual el ultimo tendra opciones de carga masiva en txt para aumentar los saldos en la base de datos, autorizar cambios de contraseña, registrar nuevos socios etc.
 - **Tecnologías**: HTML, CSS, JavaScript,PHP,Bootstrap,PostgreSQL.
 
-### 2. Fundascel
-- Descripción: Pagina web en desarrollo para la fundacion de salud de la contraloria del estado lara, para mostrar ultimas noticias, mision y vision , reseña historica, servicios médicos que ofrecen, mensaje importante, informacion de contacto y ubicacion.
+### 2. FUNDASCEL
+- Descripción: Pagina web en desarrollo para la fundacion de salud de la Contraloria del estado Lara, para mostrar ultimas noticias, mision y vision , reseña historica, servicios médicos que ofrecen, mensaje importante, informacion de contacto y ubicacion.
 - **Tecnologías**:  HTML, CSS,PHP.
 
 ### 3. IDECEL
-- Descripción: Pagina web en desarrollo para el instituto de desarrollo y estudios de la contraloria del estado lara, para mostrar ultimas noticias,mision y vision , reseña historica, areas de desarrollo y estudios que ofrecen, talleres por realizar con integracion para redirigir a WhatsApp, informacion de contacto y ubicacion.
+- Descripción: Pagina web en desarrollo para el instituto de desarrollo y estudios de la Contraloria del estado Lara, para mostrar ultimas noticias,mision y vision , reseña historica, areas de desarrollo y estudios que ofrecen, talleres por realizar con integracion para redirigir a WhatsApp, informacion de contacto y ubicacion.
 - **Tecnologías**:  HTML, CSS,PHP,JSON,JavaScript.
 
 ### 4. SIVI 1.0
