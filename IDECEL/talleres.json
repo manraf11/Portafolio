@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Taller de la Declaración de Impuesto sobre la Renta",
+        "fecha": "11/03/2025",
+        "costo": "$10",
+        "descripcion": "Aprende como realizar correctamente una declaración de impuestos dobre la renta.",
+        "link": "https://wa.me/5804166564370"
+    },
+    {
+        "titulo": "Taller de Metodología para generar indicadores de Gestión, aplicados a la Administarción Pública",
+        "fecha": "18/03/2025",
+        "costo": "$10",
+        "descripcion": "Domina las herramientas para generar indicadores de Gestión.",
+        "link": "https://wa.me/5804166564370"
+    },
+    {
+        "titulo": "Taller de Comisión de Contrataciones Públicas",
+        "fecha": "25/03/2025",
+        "costo": "$10",
+        "descripcion": "Aprende el proceso de las contrataciones.",
+        "link": "https://wa.me/5804166564370"
+    }
+]
