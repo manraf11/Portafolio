@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Manuel Flores
 
-Soy desarrollador de software Junior con conocimientos Empiricos y Teóricos en HTML,CSS,PHP,JSON,JAVASCRIPT,POSTGRESQL,MYSQL,BOOTSTRAP. Me apasiona la programacion , los retos  y disfruto creando soluciones innovadoras.
+Soy desarrollador de software Junior con conocimientos Empiricos y Teóricos en HTML,CSS,PHP,JSON,JAVASCRIPT,POSTGRESQL,MYSQL,BOOTSTRAP. Me apasiona la programacion , los retos  y disfruto creando soluciones innovadoras usando como apoyo el uso de Inteligencia Artificial tales como: qwen, gpt, blackbox, gemini, deepseek y copilot para un desarrollo mas eficaz y eficiente , reduciendo el timpo de ejecucion de los proyectos manteniendo su calidad y seguridad.
 
 ## 📂 Mis Proyectos
 
